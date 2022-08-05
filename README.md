@@ -4,7 +4,7 @@
  
 </p align="center">
 
-<a href="https://im.ge/i/FY8Gwy"><img src="https://i.im.ge/2022/08/04/FY8Gwy.Animated-GIFs-for-use-in-wallpapers.gif" alt="Animated-GIFs-for-use-in-wallpapers" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YN14FZB/lag-train.gif" alt="lag-train" border="0" /></a>
 
 <p align="center">
 
