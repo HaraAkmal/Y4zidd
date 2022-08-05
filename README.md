@@ -65,8 +65,6 @@ I took this template from Google, I just tried it for fun </br></font>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Y4zidd&theme=redical">
 </p> 
-
-![Spotify recently played
  
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
