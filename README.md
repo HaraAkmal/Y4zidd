@@ -34,14 +34,10 @@ I took this template from Google, I just tried it for fun </br></font>
 <a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
  <img src="https://img.shields.io/badge/-Yazid56-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
- <a href="https://twitter.com/YzdBKPMode">
- <img src="https://img.shields.io/badge/-Y4zid-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
 </p>
 
-
 <h2 align="center">
-  Nyolong Di Google :v <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  NMamah Eneng Ulo <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
