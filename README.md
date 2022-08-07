@@ -15,7 +15,7 @@
 I took this template from Google, I just tried it for fun </br></font>
 </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Sedang Di Pelajari <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -24,7 +24,7 @@ I took this template from Google, I just tried it for fun </br></font>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Sosmed <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-Y4zid_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
