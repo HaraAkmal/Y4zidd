@@ -37,7 +37,7 @@ I took this template from Google, I just tried it for fun </br></font>
 </p>
 
 <h2 align="center">
-  NMamah Eneng Ulo <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  Mamah Eneng Ulo <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
