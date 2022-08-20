@@ -11,8 +11,9 @@
 
   <p align="center">
   <font face="Baskerville">
-  <br> Hello My name is Yazid Istiqlal adhy Fadhillah, I come from Indonesia and I just learned coding, My job every day is just sleeping and eating and always doing that, and my hobbies are watching anime and sometimes opening Facebook.
-I took this template from Google, I just tried it for fun </br></font>
+  <br> Hello, welcome to my github, My Name Is Yazid Istiqlal Adhy Fadhillah.I come from Indonesia, I'm Learning Front End Html And Css. 
+My daily activities are just sleeping, eating, and playing the computer, 
+the games I play are only Osu and Valorant. The rest I only see content on social media.</br></font>
 </p>
 
 <h2 align="center">Sedang Di Pelajari <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
