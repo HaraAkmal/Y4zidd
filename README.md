@@ -1,12 +1,6 @@
 <!--  https://Y4zidd.github.io/portfolio/  -->
 <p align="center">
- 
-</p align="center">
-
-<a href="https://im.ge/i/FY8Gwy"><img src="https://i.im.ge/2022/08/04/FY8Gwy.Animated-GIFs-for-use-in-wallpapers.gif" alt="Animated-GIFs-for-use-in-wallpapers" border="0" /></a>
-
-<p align="center">
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kGvkq9k/c57.gif" alt="c57" border="0" /></a>
 </p>
 
   <p align="center">
@@ -21,20 +15,7 @@ the games I play are only Osu and Valorant. The rest I only see content on socia
 <p align="center">
  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
-
-<h2 align="center">Sosmed <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-Y4zid_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: @Y4zid">
- <img src="https://img.shields.io/badge/-Y4zid-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dahlahg7@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-Yazid56-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
 </p>
 
 <h2 align="center">
@@ -44,10 +25,6 @@ the games I play are only Osu and Valorant. The rest I only see content on socia
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
 <br>
 
 <p align = "center">
@@ -62,6 +39,3 @@ the games I play are only Osu and Valorant. The rest I only see content on socia
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Y4zidd&theme=redical">
 </p> 
- 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
