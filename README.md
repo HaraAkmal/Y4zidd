@@ -12,6 +12,7 @@ the games I play are only Osu and Valorant. The rest I only see content on socia
 
 <p align="center">
 <a href="https://osu.ppy.sh/users/29848041" style="color: #fff;">Osu Profile</a></button>
+
 <p align="center">
 <a href="https://sourceforge.net/u/ziddpyy" style="color: #fff;">Osu Skin</a></button>
 
