@@ -5,7 +5,7 @@
 
   <p align="center">
   <font face="Baskerville">
-  <br> Hello, welcome to my github, My Name Is Yazid Istiqlal Adhy Fadhillah.I come from Indonesia, I'm Learning Front End Html And Css. 
+  <br> Hello, welcome to my github, My Name Is Yazid Istiqlal Adhy Fadhillah.I come from Indonesia, I'm Learning Front End, Html And Css. 
 My daily activities are just sleeping, eating, and playing the computer, 
 the games I play are only Osu and Valorant. The rest I only see content on social media.</br></font>
 </p>
