@@ -16,6 +16,9 @@ the games I play are only Osu and Valorant. The rest I only see content on socia
 <p align="center">
 <a href="https://raw.githubusercontent.com/Y4zidd/Y4zidd/main/AristiaEdit%20but%20SZ.zip" style="color: #fff;">Osu Skin</a></button>
 
+<p align="center">
+<a href="https://youtu.be/dQw4w9WgXcQ" style="color: #fff;">🎉 Surprise 🎉</a></button>
+
 <h2 align="center">Sedang Di Pelajari <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
