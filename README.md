@@ -10,6 +10,11 @@ My daily activities are just sleeping, eating, and playing the computer,
 the games I play are only Osu and Valorant. The rest I only see content on social media.</br></font>
 </p>
 
+<p align="center">
+<a href="https://osu.ppy.sh/users/29848041" style="color: #fff;">Osu Profile</a></button>
+<p align="center">
+<a href="https://sourceforge.net/u/ziddpyy" style="color: #fff;">Osu Skin</a></button>
+
 <h2 align="center">Sedang Di Pelajari <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
